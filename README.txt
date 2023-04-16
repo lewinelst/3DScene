@@ -1,3 +1,5 @@
+![Screenshot](Resources/Screenshots/Test.png)
+
 Running the program.
 An executable can be found at x64/Debug/GraphicsAssignment.exe
 Alternatively the code can be compiled and ran using the GraphicsAssignment.sln file. The code
