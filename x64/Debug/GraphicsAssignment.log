@@ -1,0 +1,4 @@
+﻿  Hatch.cpp
+C:\Users\lewin\Documents\OpenGL Learn\GraphicsAssignment\camera.h(102,9): warning C4552: '-': result of expression not used
+C:\Users\lewin\Documents\OpenGL Learn\GraphicsAssignment\Hatch.cpp(578,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  GraphicsAssignment.vcxproj -> C:\Users\lewin\Documents\OpenGL Learn\GraphicsAssignment\x64\Debug\GraphicsAssignment.exe
